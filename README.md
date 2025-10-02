@@ -349,35 +349,6 @@ Use this checklist for every project you upload to GitHub:
 - [ ] README has no typos
 - [ ] You've reviewed your repository as if you're a potential employer
 
----
-
-## Example Projects
-
-I've created two example repositories that demonstrate everything in this guide:
-
-### 1. [Simple Sales Data Analysis](link-to-example-1)
-**Complexity: Beginner**
-- Single dataset (CSV file)
-- Basic data cleaning and exploration
-- Simple visualizations
-- Demonstrates: folder structure, good commits, professional README
-
-**Perfect for:** Your first data analysis project on GitHub
-
-### 2. [DVD Rental Database Analysis](link-to-example-2)
-**Complexity: Intermediate**
-- Multiple related datasets
-- More complex analysis with SQL and Python
-- Interactive visualizations
-- Demonstrates: everything from Example 1 PLUS branches and pull requests
-
-**Perfect for:** Showcasing more advanced skills
-
-### How to Use These Examples:
-1. **Browse the repositories**: Click through the files and folders
-2. **Read the commit history**: Click "Commits" to see how the project was built step by step
-3. **Study the README**: See how professional documentation looks
-4. **Replicate the structure**: Use these as templates for your own projects
 
 ---
 
