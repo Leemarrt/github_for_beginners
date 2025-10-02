@@ -4,6 +4,13 @@
 
 By the end of this guide, you'll know how to create professional project documentation that will impress potential employers and showcase your work effectively.
 
+
+<!-- Badges -->
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Issues](https://img.shields.io/github/issues/Leemarrt/github_for_beginners)](https://github.com/Leemarrt/github_for_beginners/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/Leemarrt/github_for_beginners)](https://github.com/Leemarrt/github_for_beginners/commits/main)
+
 ---
 ## Quick Start (Do this first)
 
