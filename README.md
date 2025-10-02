@@ -39,6 +39,25 @@ By the end of this guide, you'll know how to create professional project documen
 **End result:** a simple, professional repo recruiters can scan in under 1 minute.
 
 ---
+## Glossary (click to expand)
+
+<details>
+  <summary>Open Glossary</summary>
+
+**Repository (repo):** Your project’s home on GitHub—like a named folder online.  
+**Commit:** A saved change with a short message (think: “save game” for your project).  
+**Branch:** A safe copy of your repo to try edits without breaking the main version.  
+**Pull Request (PR):** A request to merge a branch back into the main repo (review + approve).  
+**README:** The front page of your repo—explains what it is and how to use it.  
+**Fork:** Your own copy of someone else’s repo under your account (so you can tweak it).  
+**Clone (optional):** Download a repo to your computer; skip if using only the web UI.  
+**Issue:** A to-do/bug/idea ticket others can see and discuss.  
+**.gitignore:** A list of files Git should **not** track (e.g., large data, venv, cache).  
+**License:** The rules for how others can use or share your work (MIT/CC-BY, etc.).
+
+</details>
+
+
 ## Table of Contents
 1. [What is GitHub and Why Should You Care?](#what-is-github-and-why-should-you-care)
 2. [Getting Started: Your First Repository](#getting-started-your-first-repository)
@@ -119,7 +138,7 @@ Let's add a file to your repository:
 1. **Click "Add file"** → **"Create new file"**
 2. **Name your file**: Type `data/sample.csv` (this creates a folder called "data" with a file inside, so the file is the sample.csv, i could be anything, mavenstoy.xlsx, etc... any file you upload, just name it correctly for good reference)
 3. **Add some content**: Paste some sample data or text
-4. **Scroll down to "Commit new file"**
+4. **Scroll down to "Commit new file"** ![commit file](images/commit-new-files.png)
 5. **Write a commit message**:
    - **First line** (required): A short summary (e.g., "Add sample sales data")
    - **Description** (optional but recommended): More details (e.g., "This dataset contains 100 sales records from January 2024")
