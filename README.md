@@ -14,7 +14,7 @@ By the end of this guide, you'll know how to create professional project documen
 5. [Organizing Your Project Structure](#organizing-your-project-structure)
 6. [Branches and Pull Requests](#branches-and-pull-requests)
 7. [Best Practices Checklist](#best-practices-checklist)
-8. [Example Projects](#example-projects)
+
 
 ---
 
